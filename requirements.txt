@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-gpu
+jupyter
+keras
+numpy
+opencv-python
+matplotlib
+ipython
